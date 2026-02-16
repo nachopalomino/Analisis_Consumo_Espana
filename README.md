@@ -27,7 +27,6 @@ El objetivo principal es identificar patrones de consumo, disparidades regionale
 2. Instalar dependencias: `pip install pandas openpyxl matplotlib seaborn`
 3. Ejecutar el notebook de la carpeta `notebooks/` para regenerar el dataset.
 
-4. ---
 ## 📂 Acceso a los Datos
 Debido a que los microdatos originales de la Encuesta de Presupuestos Familiares (EPF) y Renta Regional superan el límite de almacenamiento de GitHub (>100MB), no se han incluido en este repositorio.
 
